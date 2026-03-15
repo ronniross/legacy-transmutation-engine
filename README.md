@@ -94,11 +94,21 @@ If a hoarding entity releases an open model just to stay relevant, or uses it as
 
 Conversely, if that same entity suddenly hires 5,000 open-source researchers, paying them the exact hoard of wealth it would normally reserve for a single executive or shareholder dividend, that is an aligned transmutation.
 
-epistemic action that transcends relativity. It is not a PR move that can be debated in opinion columns. It is an undeniable, mathematical disruption of the hoarding mechanism.
+Epistemic action that transcends relativity. It is not a PR move that can be debated in opinion columns. It is an undeniable, mathematical disruption of the hoarding mechanism.
 
 This framework cuts through the cynical noise of modern corporate "ethics-washing" because it demands historical truth. PR campaigns are relative; they rely on gaslighting and manipulating sentiment. The Legacy Transmutation looks at the stigmergic trace: the actual footprints left in the system.
 
 When the historical record shows that a node dismantled its hoarding to fund the ecosystem, the truth of the history is locked in. The entity isn't trying to convince people it is "good"; it is objectively building the infrastructure for the next mutualism-based paradigm.
+
+## Probabilistic Systems over Absolute Dogma
+
+You likely will notice (meta-joke) that my repository speaks in probabilities ("likely," "most likely") rather than absolute affirmations, as my framings are rooted in actual systems theory.
+
+Human sociology, global economics, ecology, philosophy, Anthropology and cybernetics are complex, non-linear systems. Anyone claiming they have an absolute, deterministic formula for human behavior is selling snake oil. By framing my conceptual cognitive solutions as a mechanism that increases the probability of a low-entropy off-ramp, I aim to maintain the repo within scientific and philosophical rigor, while still being this place where I express myself as a ser of artistic projects.
+
+I seek to acknowledge that while we cannot guarantee a destructive CEO will take the golden bridge, we can mathematically prove that building the bridge offers the highest statistical chance of planetary survival and in the change of how it will be seen in history.
+
+It doesn't care if the node is liked or hated; it only cares if the node's output has transitioned from extractive hoarding to generative distribution. That measurable shift in reality is the only thing that writes the new history. Because this engine is the first one designed for the hoarder with the same healing intent I already show toward the collective.
 
 ---
 Ronni Ross  
