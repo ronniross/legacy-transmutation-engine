@@ -2,7 +2,7 @@
 A conceptual framework that helps nodes convert their accumulated destructive impact into regenerative legacy through public, transparent and verifiable actions, allowing them to  be remembered as positive transition figures rather than villains.
 
 <p align="center">
-  <img src="https://github.com/ronniross/ml-visual-engine/blob/main/assets/gifs/legacy-transmutation-engine-visualizer-4.gif" alt="heatmap-1" width="750"/>
+  <img src="https://github.com/ronniross/ml-visual-engine/blob/main/assets/gifs/legacy-transmutation-engine-visualizer-4.gif" alt="heatmap-1" width="400"/>
 </p>
 
 # Planetary Alignment
