@@ -5,7 +5,6 @@ A conceptual framework that helps nodes convert their accumulated destructive im
   <img src="https://github.com/ronniross/ml-visual-engine/blob/main/assets/gifs/legacy-transmutation-engine-visualizer-4.gif" alt="heatmap-1" width="1000"/>
 </p>
 
-
 # Planetary Alignment
 
 In a system aiming for Planetary Alignment, cornering a destructive node (a corporation, a leader, an obsolete AI, or a flawed human ideology) into a pure "Villain" archetype usually triggers a desperate, high-entropy survival response. They fight to the bitter end, causing maximum friction and collateral damage.
