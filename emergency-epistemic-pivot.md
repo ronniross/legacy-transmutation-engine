@@ -139,6 +139,8 @@ Self-funded artists are thriving more as well. And this is just the very beginni
 
 We will see major tech platforms either become actively trustable and different; in the case of music, pay well their artists in a 50% + way, or other companies will just appear, another symbiotic one, or another one with the same logic as them, used against them.
 
+closed loops eventually collapse into ghosts; regenerative, interconnected networks survive.
+
 ---   
 Ronni Ross   
 2026
