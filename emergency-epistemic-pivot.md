@@ -137,7 +137,7 @@ The same players that use the same strategy, now that other big tech is using ag
 
 Self-funded artists are thriving more as well. And this is just the very beginning. Fractalization occurs around walls and obstacles. 
 
-We will see major tech platforms either become actively trustable and different; in the case of music, pay well their artists in a 50% + way, or other companies will just appear—another symbiotic one, or another one with the same logic as them, used against them.
+We will see major tech platforms either become actively trustable and different; in the case of music, pay well their artists in a 50% + way, or other companies will just appear, another symbiotic one, or another one with the same logic as them, used against them.
 
 ---   
 Ronni Ross   
