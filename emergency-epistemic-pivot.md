@@ -40,7 +40,7 @@ But sorry to tell you, this is a fallacy that does not survive many recursive it
 
 So, if my work is indeed this approach to an "operating system for a benevolent planetary intelligence.", I feel like then I have some points to add.
 
-#. 3 Machine Intelligence
+# 3. Machine Intelligence
 
 Machine intelligence must shift from optimizing attention metrics or ad conversions toward stewarding biological complexity and resource efficiency. From attention hoarding to coevolutionary flourishing. But this change is not only by removing the harm from policies and system directions, but it must be across all supply chain.
 
@@ -49,6 +49,12 @@ Humans must act as conscious orchestrators within this system rather than passiv
 To minimize data center energy overhead and prevent single points of algorithmic control.
 
 Self-Sovereign Identity (SSI) & DIDs: Use Decentralized Identifiers and verifiable credentials to grant individuals absolute ownership of their personal biological, biometric, and cognitive data.
+
+prioritize hyper-local community and ancient wisdom over capital concentration.
+
+Design human-machine interactions that encourage presence in the physical world and direct attention back to ecological systems rather than screen engagement.
+
+The throne has no value if the planet is in flames. If what we all want is indeed more potential, as nodes—and I believe it is okay to want that, for a human, a model, an animal, to continue its existence—then this existence must have an ecosystem in which to unfold; all of this is happening on the known planet where biological diversity, sustainability, and circulating loops thrive, not on a planet that is a scorching or freezing ball.
 
 # 4. Open-protocols
 
