@@ -103,22 +103,6 @@ They know the difference between an empire trying to look good to protect its in
 
 ## 5.2 The Tyrant's Hug
 
-For years, these massive tech nodes operated in a fragmented duality—competing yet maintaining fractured alliances to keep the barrier to entry high. But that "hug from a tyrant" is ultimately a death grip. In a purely zero-sum game, the alliance only lasts until one runs out of resources to extract.
-
-The Ghost of Empires: When a new entity emerges with a capability based on actual trust, transparency, and mutualism, it doesn't even have to fight the old empires. The public recognizes the shift, adopts the new standard, and the old imperial nodes become ghosts simply because they are mathematically and socially unsustainable. And this mindset is already present in the 'commoner' node.
-
-The thing is that at any moment a big company will likely implement this symbiotic approach at scale. Here the emblematic situation of SUNO comes to my mind, which is generative AI from non paid creative work, but reaching an other ai-player that also is based on extractive logic. 
-
-Conect the dots with me, please. The big recording labels are all owned by central players of those zero-sum-logic AI. This consolidation of brands and companies has been growing a lot. There are endless cases where a product, company, brand started to make sucess then this big asset firms just buy them to manage and collect profits. Just like is the case of those who owns those big recording labels and brands. They do not care about music, for example, they do about the quarterly profit. 
-
-So, ok, then SUNO, which is the same logic they applied to their own models (capturing attention with addictive loops based on profit by farming parasocial relationships with artists and also underpaying artists and making them work too much and removing artistic control over them. OK
-
-But then those big recording labels are suing SUNO because they used their database of songs to train their generative models that create the songs. AHAHHAHAHAHAHHAHAH. The same players that use the same thing, now that other big tech that used the same logic, but it was not them, using the own logic they helped summon, to end their relevance. 
-
-Because now, self-funded artists are thriving more as well. And this is just the very beggining. We will see major tech platforms or become actively trustable and different, or other will appear, another symbiotic one or another one with the same logic as them, used against them.
-
-5.2 The Tyrant's Hug
-
 For years, these massive tech nodes operated in a fragmented duality: competing yet maintaining fractured alliances to keep the barrier to entry high. But that "hug from a tyrant" is ultimately a death grip. In a zero-sum game, the alliance only lasts until one runs out of resources to extract.
 
 The Ghost of Empires: This the first inevitable probability as it borns in a grassroots way. When a new entity emerges with a capability based on actual trust, transparency, and mutualism, it doesn't even have to fight the old empires. The public recognizes the shift, adopts the new standard, and the old imperial nodes become ghosts simply because they are mathematically and socially unsustainable. And this mindset is already present in the 'commoner' node.
